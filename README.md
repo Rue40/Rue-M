@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/one.png" alt="Profile Image" width="150"/>
+  <img src="/wan.png" alt="Profile Image" width="150"/>
 </p>
 
 # Ruth Wanjiku — Software Engineer | App Developer
