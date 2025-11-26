@@ -24,7 +24,7 @@ AI & Kotlin are areas I explore as side projects, but my core expertise is **app
 **Client:** Rhombus Concrete | **2024–2025**  
 Developed a comprehensive dashboard for concrete operations with real-time sync, reporting, and internal dashboards.  
 [Repo Link](#) | Demo: TBD  
-![Rhombus Dashboard](images/one.png)  
+![Rhombus Dashboard](/one.png)  
 
 **Features:**  
 - Concrete Cube Test Logger automating QA data entry  
@@ -40,7 +40,7 @@ Developed a comprehensive dashboard for concrete operations with real-time sync,
 **Client:** NeuroPaint | **Hosted**  
 Responsive website showcasing products and services for EuroPaint.  
 [Live Link](https://europaint-krdugh.web.app/) | [Repo Link](#)  
-![EuroPaint Website](images/four.png)  
+![EuroPaint Website](/four.png)  
 
 **Features:**  
 - Interactive client website design and deployment  
@@ -65,7 +65,7 @@ Responsive website showcasing products and services for EuroPaint.
 
 ### BeaWorkout — Guided Workout App
 **Client:** Private | **2022–2023**  
-![BeaWorkout](images/three.png)  
+![BeaWorkout](/three.png)  
 
 - Progressive workout plans with animations  
 - Offline-first design with local caching  
@@ -86,7 +86,7 @@ Responsive website showcasing products and services for EuroPaint.
 ### OpinionAI
 **Client:** Hosted  
 [Live Link](https://opinionai.flutterflow.app/)  
-![OpinionAI](images/six.png)  
+![OpinionAI](/six.png)  
 
 - AI experimentation tool for generating insights  
 - User-friendly interface for testing AI models  
@@ -95,7 +95,7 @@ Responsive website showcasing products and services for EuroPaint.
 
 ### Notex
 **Client:** Hosted  
-![Notex](images/seven.png)  
+![Notex](/seven.png)  
 
 - Flutter app for sharing and selling student notes  
 - Compiles images into PDFs  
@@ -104,7 +104,7 @@ Responsive website showcasing products and services for EuroPaint.
 
 ### Android TV App
 **Client:** Personal | **2023**  
-![Android TV App](images/eight.png)  
+![Android TV App](/eight.png)  
 
 - Kotlin TV app with media content and interactive UI  
 - Optimized for TV screen experience  
