@@ -46,7 +46,7 @@ Responsive website showcasing products and services for EuroPaint.
 - Interactive client website design and deployment  
 - Responsive layout with Tailwind & HeroUI  
 
-**Tech Stack:** React, Tailwind, HeroUI  
+**Tech Stack:** React, Tailwind 
 
 ---
 
@@ -76,7 +76,7 @@ Responsive website showcasing products and services for EuroPaint.
 ### OdooReceptionist AI
 **Client:** Private | **2023**  
 [Demo](https://illustrious-florentine-2178d8.netlify.app/)  
-![OdooReceptionist AI](images/five.png)  
+![OdooReceptionist AI](/five.png)  
 
 - Adapted AI receptionist for Kenyan businesses  
 - Integrated into Odoo for automated front-desk operations  
